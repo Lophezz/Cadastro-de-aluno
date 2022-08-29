@@ -1,4 +1,4 @@
-# Cadastro_de_Aluno
+#Cadastro de Aluno
 
-Um projeto em java que simula o cadastro de um Aluno.
-"# Cadastro-de-aluno" 
+Cadastro de aluno feito em Java
+
